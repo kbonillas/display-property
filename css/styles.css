@@ -34,3 +34,12 @@
     background-color: lightcoral;
     padding: 10px;
 }
+
+.display-none{
+    display: none;
+    /* visibility: hidden; */
+}
+
+.visibility-hidden{
+    visibility: hidden;
+}
